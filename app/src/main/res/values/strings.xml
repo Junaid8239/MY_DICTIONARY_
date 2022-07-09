@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MY_DICTIONARY</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_mail_id">Enter Mail-id</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="not_registered_yet">Not Registered yet?</string>
+    <string name="quick_search">QUICK SEARCH</string>
+    <string name="Register2">Register</string>
+    <string name="login2">LOGIN</string>
+    <string name="word">word</string>
+</resources>
